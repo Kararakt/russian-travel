@@ -1,0 +1,18 @@
+.lead {
+  max-width: 61.5rem;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 3.5rem;
+}
+
+@media screen and (max-width: 1279px) {
+  .lead {
+    padding-top: 3rem;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .lead {
+    max-width: 58rem;
+  }
+}
