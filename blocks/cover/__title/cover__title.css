@@ -3,7 +3,7 @@
   font-size: 4.5rem;
   font-weight: 700;
   line-height: 1.05;
-  margin: 0;
+  margin: 0 0 2rem;
   z-index: 1;
 }
 
@@ -11,6 +11,6 @@
   .cover__title {
     font-size: 2rem;
     line-height: 1.09;
-    margin: 0 1rem;
+    margin: 0 1rem 1rem;
   }
 }

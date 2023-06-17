@@ -7,13 +7,14 @@
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .place {
     grid-template-columns: 27.5rem 1fr;
+    column-gap: 2rem;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .place {
     grid-template-columns: 21.25rem 1fr;
-    gap: 3rem 1.75rem;
+    column-gap: 1.75rem;
     margin: 0 1.5rem;
   }
 }
